@@ -1,6 +1,6 @@
 # package information.
 INFO = dict(
-  name        = "Cat Age Calculator",
+  name        = "mewcalc",
   description = "The calculator fot cat's age",
   author      = "shinriyo",
   author_email = "shinriyo@gmail.com",
